@@ -14,7 +14,7 @@ Instances (Rows): 3040<br>
 Attributes (Columns): 5<br>
 <br>
 Data Samples:<br>
-First five <br>
+First five datasamples:<br>
 
 |date   |state   |fips   |cases   |deaths   |
 |:-:|:-:|:-:|:-:|:-:|
@@ -24,7 +24,7 @@ First five <br>
 |2020-01-24|	Illinois	|17	|1	|0|
 |2020-01-24|	Washington|	53	|1 |	0|
 
-Last five <br>
+Last five datasamples (as of 4/26/20): <br>
 
 |date   |state   |fips   |cases   |deaths   |
 |:-:|:-:|:-:|:-:|:-:|
