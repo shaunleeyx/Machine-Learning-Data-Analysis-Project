@@ -15,7 +15,7 @@ Attributes (Columns): 5<br>
 <br>
 Data Samples:<br>
 
-|   |   |   |   |   |
+|date   |state   |fips   |cases   |deaths   |
 |:-:|:-:|:-:|:-:|:-:|
 |   |   |   |   |   |
 |   |   |   |   |   |
