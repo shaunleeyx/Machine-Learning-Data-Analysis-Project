@@ -14,8 +14,9 @@ Instances (Rows): 3040<br>
 Attributes (Columns): 5<br>
 <br>
 Data Samples:<br>
+
 Column 1 | Column 2 | Column 3 | Column 4 | Column 5 
---- | --- | --- | --- | ---
+--- 
 2020-01-21 |	Washington	| 53	| 1 |	0
 
 
