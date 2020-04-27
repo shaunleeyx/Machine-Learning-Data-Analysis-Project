@@ -17,6 +17,7 @@ Data Samples:<br>
 
 |date   |state   |fips   |cases   |deaths   |
 |:-:|:-:|:-:|:-:|:-:|
+|2020-01-21|	Washington|	53|	1|	0|
 |   |   |   |   |   |
 |   |   |   |   |   |
 |   |   |   |   |   |
