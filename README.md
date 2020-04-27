@@ -18,9 +18,10 @@ Data Samples:<br>
 |date   |state   |fips   |cases   |deaths   |
 |:-:|:-:|:-:|:-:|:-:|
 |2020-01-21|	Washington|	53|	1|	0|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+2020-01-22|	Washington	|53	|1	|0|
+2020-01-23|	Washington|	53	|1	|0|
+2020-01-24|	Illinois	|17	|1	|0|
+2020-01-24|	Washington|	53	|1 |	0|
 
 
 Column 1 | Column 2 | Column 3 | Column 4 | Column 5 
