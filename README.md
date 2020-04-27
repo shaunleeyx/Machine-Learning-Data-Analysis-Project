@@ -4,8 +4,6 @@ Marco Rodriguez,
 Shaun Lee, 
 Zachary Chandler 
 <br>
-<h3>A) Datasets:</h3> <br>
-
 <h2> New York Times Coronavirus (COVID-19) Data in the United States </h2><br>
 Description: This dataset has the cumulative counts of coronavirus cases in the United States, at the state and county level, over time. This data is taken from state and local governments and health departments in order to provide a complete record of the outbreak in the United States.<br>
 <br>
@@ -37,7 +35,6 @@ Last five datasamples (as of 4/26/20): <br>
 <h3>Attributes:</h3>
 Date: date of confirmed cases and deaths
 
-
 State: US State of confirmed cases and deaths
 
 FIPS: a FIPS code, a standard geographic identifier to make it easier for an analyst to combine this data with other data sets like a map file or population data.
@@ -46,4 +43,4 @@ Cases: Reported case of COVID-19 in a patient
 
 Death: Reported death from COVID-19
 
-Appropriate measures of the central tendency and dispersion for attributes:
+<h3>Appropriate measures of the central tendency and dispersion for attributes:</h3>
