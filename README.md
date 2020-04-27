@@ -15,8 +15,12 @@ Attributes (Columns): 5<br>
 <br>
 Data Samples:<br>
 Column 1 | Column 2 | Column 3 | Column 4 | Column 5 
+--- | --- | --- | --- | ---
 2020-01-21 |	Washington	| 53	| 1 |	0
 
+
+
+Column 1 | Column 2 | Column 3
 --- | --- | ---
 **Things** | _Don't_ | [Need](http://makeuseof.com)
 To | *__Look__* | `Pretty
