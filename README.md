@@ -39,9 +39,9 @@ State: US State of confirmed cases and deaths
 
 FIPS: a FIPS code, a standard geographic identifier to make it easier for an analyst to combine this data with other data sets like a map file or population data.
 
-Cases: Reported case of COVID-19 in a patient
+Cases: Cumulative cases of COVID-19 to date.
 
-Deaths: Reported deaths from COVID-19
+Deaths: Cumulative deaths from COVID-19 to date.
 
 <h3>Appropriate measures of the central tendency and dispersion for attributes:</h3>
 
