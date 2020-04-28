@@ -5,9 +5,9 @@ Shaun Lee,
 Zachary Chandler 
 <br>
 <h1> New York Times Coronavirus (COVID-19) Data in the United States (Dataset #1) </h1><br>
-**Description:** This dataset has the cumulative counts of coronavirus cases in the United States, at the state and county level, over time. This data is taken from state and local governments and health departments in order to provide a complete record of the outbreak in the United States.<br>
+Description: This dataset has the cumulative counts of coronavirus cases in the United States, at the state and county level, over time. This data is taken from state and local governments and health departments in order to provide a complete record of the outbreak in the United States.<br>
 <br>
-**Size of dataset:** <br>
+Size of dataset: <br>
 Instances (Rows): 3040<br>
 Attributes (Columns): 5<br>
 <br>
@@ -47,9 +47,9 @@ Deaths: Reported deaths from COVID-19
 
 
 <h1> State Action on Coronavirus (Dataset #2) </h1><br>
-**Description:** This dataset showcases state legislative action towards containing the COVID-19 outbreak. <br>
+Description: This dataset showcases state legislative action towards containing the COVID-19 outbreak. <br>
 <br>
-**Size of dataset:** <br>
+Size of dataset:<br>
 Instances (Rows): 579<br>
 Attributes (Columns): 3<br>
 <br>
@@ -74,6 +74,10 @@ Last five datasamples (as of 4/26/20): <br>
 |Wisconsin|AB 1035  Exempts pharmaceutical, treatment, and other medical supplies used for treating COVID-19 from the Unfair Sales Act, also called the minimum markup law, during the public health emergency declared on March 12, 2020. Failed. |-|
 |Wisconsin|AB 1038  Relates to the state government response to the coronavirus pandemic; authorizes limited autopsies for the death of an inmate due to COVID-19; establishes a civil liability exemption for persons who manufacture, distribute or sell emergency medical supplies to respond to the public health emergency. Enacted.|2020-04-15|
 <h3>Attributes:</h3>
+State: US State where the bill is proposed.
 
+Bill Summary: A brief summary of the proposed bill.
+
+Date of Enactment:  Date of when the bill was passed.
 
 <h3>Appropriate measures of the central tendency and dispersion for attributes:</h3>
