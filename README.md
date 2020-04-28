@@ -41,6 +41,6 @@ FIPS: a FIPS code, a standard geographic identifier to make it easier for an ana
 
 Cases: Reported case of COVID-19 in a patient
 
-Death: Reported death from COVID-19
+Deaths: Reported deaths from COVID-19
 
 <h3>Appropriate measures of the central tendency and dispersion for attributes:</h3>
