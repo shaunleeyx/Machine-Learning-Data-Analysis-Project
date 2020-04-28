@@ -44,3 +44,37 @@ Cases: Reported case of COVID-19 in a patient
 Deaths: Reported deaths from COVID-19
 
 <h3>Appropriate measures of the central tendency and dispersion for attributes:</h3>
+
+
+<h2> State Action on Coronavirus </h2><br>
+Description: This dataset showcases state legislative action towards containing the COVID-19 outbreak. <br>
+<br>
+Size of dataset: <br>
+Instances (Rows): 579<br>
+Attributes (Columns): 3<br>
+<br>
+<h3>Data Samples:</h3><br>
+First five datasamples:<br>
+
+|State   |Bill Summary   |Date of Enactment   |
+|:-:|:-:|:-:|
+|Alabama |SJR 40  Urges individuals to fist bump rather than shake hands. Enacted|2020-04-02|
+|Alabama |SR 49  Urges Congress to fund additional rental assistance due to coronavirus. Adopted.|2020-03-12|
+|Alabama |HR 107  Urges the promotion, sharing and posting of practices to reduce the spread of infectious diseases. Pending.| - |
+|Alabama |HJR 121/HJR 122  Urges the Governor to expand Medicaid coverage for new mothers in response to the current COVID-19 pandemic. Pending. | - |
+|Alabama |HB 186  Makes supplemental appropriations; includes an appropriation of $5,000,000 from the general fund to the Department of Public Health to be used for coronavirus preparedness and response activities. Enacted. | 2020-04-12|
+
+Last five datasamples (as of 4/26/20): <br>
+
+|date   |state   |fips   |cases   |deaths   |
+|:-:|:-:|:-:|:-:|:-:|
+|2020-04-26	|Virginia	|51	|12970	|448|
+|2020-04-26	|Washington	|53	|13663	|757|
+|2020-04-26	|West Virginia	|54	|1053	|34|
+|2020-04-26	|Wisconsin	|55	|5911	|274|
+|2020-04-26	|Wyoming	|56	|371	|7|
+
+<h3>Attributes:</h3>
+
+
+<h3>Appropriate measures of the central tendency and dispersion for attributes:</h3>
