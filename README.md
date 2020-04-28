@@ -4,7 +4,7 @@ Marco Rodriguez,
 Shaun Lee, 
 Zachary Chandler 
 <br>
-<h2> New York Times Coronavirus (COVID-19) Data in the United States </h2><br>
+<h1> New York Times Coronavirus (COVID-19) Data in the United States (Dataset #1) </h1><br>
 Description: This dataset has the cumulative counts of coronavirus cases in the United States, at the state and county level, over time. This data is taken from state and local governments and health departments in order to provide a complete record of the outbreak in the United States.<br>
 <br>
 Size of dataset: <br>
@@ -46,7 +46,7 @@ Deaths: Reported deaths from COVID-19
 <h3>Appropriate measures of the central tendency and dispersion for attributes:</h3>
 
 
-<h2> State Action on Coronavirus </h2><br>
+<h1> State Action on Coronavirus (Dataset #2) </h1><br>
 Description: This dataset showcases state legislative action towards containing the COVID-19 outbreak. <br>
 <br>
 Size of dataset: <br>
